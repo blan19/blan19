@@ -4,7 +4,7 @@
 <br/>  
 
 
-## 🌱 I’m currently learning And my stats  
+## <div align="center">🌱 I’m currently learning And my stats</div>  
 <table><tr><td valign="top" width="33%">
 
 
@@ -30,6 +30,6 @@
 <br />
 
 ----
-## Junseo's Github Stats  
+## <div align="center"> Junseo's Github Stats</div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=blan19&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
