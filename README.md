@@ -24,12 +24,9 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
 <br />
 
 ----
-## <div align="center"> Junseo's Github Stats</div>  
+## <div align="center"> Junseo's Github Stats :pencil: </div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=blan19&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
