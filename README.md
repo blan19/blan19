@@ -1,5 +1,5 @@
 ### <div align="center"> 안녕하세요~~! `Junseo` 입니다 👋 </div>  
-###### <div> falling in functional programing </div>
+##### <div align='center'> falling in functional programing </div>
   
 
 <br/>  
