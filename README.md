@@ -4,7 +4,7 @@
 <br/>  
 
 
-## <div align="center">🌱 I’m currently learning And my stats 🌱</div>  
+## <div align="center">�I’m currently learning And my stats</div>  
 <table align="center"><tr><td valign="top" width="33%">
 
 
