@@ -1,10 +1,11 @@
-### <div align="center">안녕하세요~~! `Junseo` 입니다 👋 </div>  
+### <div align="center"> 안녕하세요~~! `Junseo` 입니다 👋 </div>  
+###### <div> falling in functional programing </div>
   
 
 <br/>  
 
 
-## <div align="center">�I’m currently learning And my stats</div>  
+## <div align="center">I’m currently learning And my stats</div>  
 <table align="center"><tr><td valign="top" width="33%">
 
 
