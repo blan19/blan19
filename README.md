@@ -1,4 +1,4 @@
-### <div align="center"> 안녕하세요~~! `Junseo` 입니다 👋 </div>  
+### <div align="center"> hi, there </div>  
 ##### <div align='center'> falling in functional programing </div>
   
 
