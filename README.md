@@ -18,4 +18,5 @@
 <img src="https://img.shields.io/badge/-Nest.js-%23E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C++-%233178C6?style=flat-square&logo=C&logoColor=white"/>
 </div>
