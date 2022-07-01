@@ -6,6 +6,7 @@
 
 
 ## <div align="center">I’m currently learning And my stats</div>  
+## <div align="center"><a href="https://junseo.gitbook.io/blan19/" target="_blank">my blog</a></div>
 <table align="center"><tr><td valign="top" width="33%">
 
 
